@@ -1,9 +1,9 @@
 #------ASSIGNMENT 1-STORAGE MANAGER---- CS-525-----
 
-##	Submittted by Group 10:
-	1.KRITI SHREE     - A20467768(kshree@hawk.iit.edu)	
-	2.PURVAJ DESAI    - A20469336(pdesai@hawk.iit.edu)
-	3.ABHISHEK KUMAR  - A20467982(akumar84@hawk.iit.edu)
+
+	1.KRITI SHREE     -	
+	2.PURVAJ DESAI    -
+	3.ABHISHEK KUMAR  -
 
 ***********************************************************************
 
